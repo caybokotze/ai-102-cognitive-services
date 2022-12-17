@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.VideoIndexer", "Visi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.LanguageDetection", "Text.LanguageDetection\Text.LanguageDetection.csproj", "{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.EntityAnalysis", "Text.EntityAnalysis\Text.EntityAnalysis.csproj", "{BC7A16A2-EF87-4C25-8B78-730B544466A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.TextSummarization", "Text.TextSummarization\Text.TextSummarization.csproj", "{CFF89251-E36E-4B70-AE26-FA78FD946A4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7A16A2-EF87-4C25-8B78-730B544466A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A16A2-EF87-4C25-8B78-730B544466A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A16A2-EF87-4C25-8B78-730B544466A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A16A2-EF87-4C25-8B78-730B544466A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
