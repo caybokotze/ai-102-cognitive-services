@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.EntityAnalysis", "Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.TextSummarization", "Text.TextSummarization\Text.TextSummarization.csproj", "{CFF89251-E36E-4B70-AE26-FA78FD946A4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.UnderstandConversationalLanguage", "Text.UnderstandConversationalLanguage\Text.UnderstandConversationalLanguage.csproj", "{EF689EC1-9EDE-4D18-B85B-215A79530F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.AnsweringQuestions", "Text.AnsweringQuestions\Text.AnsweringQuestions.csproj", "{6E70E9CB-64E5-4832-9EF4-B7419D311870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF89251-E36E-4B70-AE26-FA78FD946A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF689EC1-9EDE-4D18-B85B-215A79530F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF689EC1-9EDE-4D18-B85B-215A79530F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF689EC1-9EDE-4D18-B85B-215A79530F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF689EC1-9EDE-4D18-B85B-215A79530F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E70E9CB-64E5-4832-9EF4-B7419D311870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E70E9CB-64E5-4832-9EF4-B7419D311870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E70E9CB-64E5-4832-9EF4-B7419D311870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E70E9CB-64E5-4832-9EF4-B7419D311870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
