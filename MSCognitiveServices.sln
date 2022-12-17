@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.ThumbnailGenerator", "Vision.ThumbnailGenerator\Vision.ThumbnailGenerator.csproj", "{AA840B71-AA31-4573-A8D6-990EB7047F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.FormRecognition", "Vision.FormRecognition\Vision.FormRecognition.csproj", "{544BE86F-B992-433B-9E84-DA3581586BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.DescribeImage", "Vision.DescribeImage\Vision.DescribeImage.csproj", "{D1DB3859-7088-4367-B301-B2C1C68B735E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.FaceRecognition", "Vision.FaceRecognition\Vision.FaceRecognition.csproj", "{F06CC2C4-4FD5-4EF7-8B06-AF21603CEC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.CustomVision", "Vision.CustomVision\Vision.CustomVision.csproj", "{CA9239A7-7192-42F0-8BB9-53E30EDFAE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.VideoIndexer", "Vision.VideoIndexer\Vision.VideoIndexer.csproj", "{96612CFC-AF50-4CD2-B40B-C111BE7DA70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text.LanguageDetection", "Text.LanguageDetection\Text.LanguageDetection.csproj", "{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA840B71-AA31-4573-A8D6-990EB7047F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA840B71-AA31-4573-A8D6-990EB7047F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA840B71-AA31-4573-A8D6-990EB7047F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA840B71-AA31-4573-A8D6-990EB7047F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544BE86F-B992-433B-9E84-DA3581586BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544BE86F-B992-433B-9E84-DA3581586BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544BE86F-B992-433B-9E84-DA3581586BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544BE86F-B992-433B-9E84-DA3581586BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DB3859-7088-4367-B301-B2C1C68B735E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DB3859-7088-4367-B301-B2C1C68B735E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DB3859-7088-4367-B301-B2C1C68B735E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DB3859-7088-4367-B301-B2C1C68B735E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06CC2C4-4FD5-4EF7-8B06-AF21603CEC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06CC2C4-4FD5-4EF7-8B06-AF21603CEC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06CC2C4-4FD5-4EF7-8B06-AF21603CEC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06CC2C4-4FD5-4EF7-8B06-AF21603CEC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9239A7-7192-42F0-8BB9-53E30EDFAE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9239A7-7192-42F0-8BB9-53E30EDFAE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9239A7-7192-42F0-8BB9-53E30EDFAE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9239A7-7192-42F0-8BB9-53E30EDFAE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96612CFC-AF50-4CD2-B40B-C111BE7DA70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96612CFC-AF50-4CD2-B40B-C111BE7DA70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96612CFC-AF50-4CD2-B40B-C111BE7DA70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96612CFC-AF50-4CD2-B40B-C111BE7DA70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CE6BE4-BBAB-4F51-8E8A-DBA75533F694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
